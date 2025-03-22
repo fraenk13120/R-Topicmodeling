@@ -21,7 +21,7 @@ library(servr)
 
 
 # # Datei laden
-# file_path <- "C:/Users/Veritas/Documents/Uni/python/data/speeches.csv"
+# file_path <- speeches.csv"
 # data <- read.csv(file_path, stringsAsFactors = FALSE, 
 #                  fileEncoding = "UTF-8")
 # 
